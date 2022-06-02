@@ -1,1 +1,1 @@
-# smart-smm-panel
+# smart-smmpanel
